@@ -1,0 +1,6 @@
+<!-- res/drawable/unselected_indicator.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="#CCCCCC" /> <!-- Customize the color for the unselected state -->
+    <size android:width="12dp" android:height="12dp" /> <!-- Customize the size of the indicator -->
+</shape>

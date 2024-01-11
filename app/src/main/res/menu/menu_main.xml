@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/menu/menu_main.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_wishlist"
+        android:title="Settings"
+        android:icon="@drawable/baseline_favorite_24"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_setting"
+        android:title="Settings"
+        android:icon="@drawable/baseline_content_paste_24"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_bag"
+        android:title="Settings"
+        android:icon="@drawable/baseline_shopping_bag_24"
+        app:showAsAction="always" />
+
+    <!-- Add more menu items as needed -->
+
+</menu>
